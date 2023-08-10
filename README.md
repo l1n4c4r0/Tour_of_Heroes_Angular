@@ -1,30 +1,24 @@
-# AngularTourOfHeroes
+# Angular Tour Of Heroes
 ![Captura de pantalla (127)](https://github.com/l1n4c4r0/Tour_of_Heroes_Angular/assets/131785740/61b4772f-0b2c-4a13-9ce1-dfb9a642aaec)
+¡Bienvenido al repositorio del proyecto de la Biblioteca! 
+En este proyecto, el objetivo es desarrollar un sistema de control de asistentes que permita al personal de la biblioteca gestionar y realizar un seguimiento de la cantidad de personas presentes en cada momento. Cada asistente estará asociado a un nombre de superhéroe.
 
+## Objetivo
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.6.
+El objetivo principal de este proyecto es proporcionar una plataforma eficiente y fácil de usar que permita al personal de la biblioteca gestionar y realizar un seguimiento de la ocupación en tiempo real. Esto incluye la creación de nuevos asistentes, la visualización de un tablero con la lista de asistentes, la capacidad de filtrar y ver solo aquellos presentes en la biblioteca, así como editar y eliminar asistentes cuando sea necesario.
 
-## Development server
+## Tecnologías Utilizadas
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+- **Backend:** Usaremos **Express** y **Node.js** para construir el backend de nuestra aplicación, asegurando un flujo de datos eficiente entre el frontend y la base de datos.
 
-## Code scaffolding
+## Funcionalidades Clave
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+1. Creación de Asistentes: El personal de la biblioteca podrá crear nuevos asistentes, asignándoles un nombre de superhéroe.
 
-## Build
+2. Filtrado de Asistentes: Los usuarios podrán filtrar y ver solo aquellos asistentes que están actualmente en la biblioteca.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+4. Edición y Eliminación: Se proporcionará la opción de editar la información de los asistentes existentes y eliminar registros cuando sea necesario.
 
-## Running unit tests
+## Servidor de desarrollo
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
-# Tour_of_Heroes
+Ejecute `ng serve` para un servidor de desarrollo. Navegue a `http://localhost:4200/`.
