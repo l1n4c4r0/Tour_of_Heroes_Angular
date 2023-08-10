@@ -1,4 +1,6 @@
 # AngularTourOfHeroes
+![Captura de pantalla (127)](https://github.com/l1n4c4r0/Tour_of_Heroes_Angular/assets/131785740/61b4772f-0b2c-4a13-9ce1-dfb9a642aaec)
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.6.
 
